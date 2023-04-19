@@ -29,3 +29,20 @@ h1{
     border-style: dashed;
     border-color:blueviolet;
 }
+
+.plant-holder {
+    position: relative;
+    height: 13%;
+    left: -10px;
+    border-style: dashed;
+    border-color:crimson;
+    
+}
+
+.plant{
+ position: absolute;
+ max-width: 150%;
+ max-height: 150%;
+ z-index: 2;
+
+}
